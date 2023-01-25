@@ -7,7 +7,17 @@
     "start": "SET node_env=production&& node ./src/index.js",
     "dev": "nodemon ./src/index.js"
   },
-
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikolaiRsv/Softuni-Cubicle-Node.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikolaiRsv/Softuni-Cubicle-Node.js.git/issues"
+  },
+  "homepage": "https://github.com/NikolaiRsv/Softuni-Cubicle-Node.js.git#readme",
   "devDependencies": {
     "nodemon": "^2.0.20"
   },
